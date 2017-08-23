@@ -1,4 +1,4 @@
-import { add } from './../imports/math'
+import add from './../imports/math'
 import { greetUser } from './../imports/utils'
 
 console.log('Log from /server/main.js');

@@ -7,3 +7,6 @@ export let greetUser = function()  {
 export let name = function(){
   return 'Tikumporn';
 }
+
+let myDefault = 'Some default Value'
+export default myDefault;
